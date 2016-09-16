@@ -1,5 +1,5 @@
 ﻿CACHE MANIFEST
-#1474013622
+#1474024110
 data.js
 c2runtime.js
 jquery-2.1.1.min.js
@@ -38,7 +38,7 @@ images/orc-sheet0.png
 images/instructions-sheet0.png
 images/sprite4-sheet0.png
 images/fakespider-sheet0.png
-images/sprite2-sheet0.png
+images/background-sheet0.png
 media/170272__knova__gun-click.m4a
 media/170272__knova__gun-click.ogg
 media/344142__brokenphono__gunshot-002%20(1).m4a
@@ -51,6 +51,8 @@ media/249813__spookymodem__goblin-death.m4a
 media/249813__spookymodem__goblin-death.ogg
 media/76376__spazzo-1493__game-over%20(1).m4a
 media/76376__spazzo-1493__game-over%20(1).ogg
+media/290521__littlerobotsoundfactory__mouth-44.m4a
+media/290521__littlerobotsoundfactory__mouth-44.ogg
 media/curse_of_the_scarab.m4a
 media/curse_of_the_scarab.ogg
 media/sad_1_.m4a
